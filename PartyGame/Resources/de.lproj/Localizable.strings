@@ -1,0 +1,61 @@
+// Game Types
+"game.all" = "Trinkspiel";
+"game.all.description" = "Lustiges Trinkspiel für alle!";
+"game.girls" = "Mädelsabend";
+"game.girls.description" = "Spezielles Trinkspiel für Mädels!";
+"game.couples" = "Pärchen-Spiel";
+"game.couples.description" = "Bringen Sie Schwung in Ihre Beziehung!";
+"game.friends" = "Freunde-Abend";
+"game.friends.description" = "Spaß mit deinen besten Freunden!";
+"game.party" = "Party Time";
+"game.party.description" = "Das ultimative Partyspiel!";
+
+// Common UI
+"button.start" = "Spiel Starten";
+"button.end" = "Spiel Beenden";
+"button.close" = "Schließen";
+"button.cancel" = "Abbrechen";
+"title.results" = "Spielergebnisse";
+"title.rules" = "Spielregeln";
+"Did it!" = "Geschafft!";
+"Skip" = "Überspringen";
+"Completed" = "Abgeschlossen";
+"Skipped" = "Übersprungen";
+"Total Missions" = "Gesamtmissionen";
+"Completion Rate" = "Erfolgsquote";
+"Close" = "Schließen";
+"Party Games" = "Partyspiele";
+"Start Game"="Start Spiele";
+"Game Results"="Spielergebnisse";
+// Settings
+"settings.title" = "Einstellungen";
+"settings.sound" = "Ton";
+"settings.sound.effects" = "Toneffekte";
+"settings.language" = "Sprache";
+"settings.language.change" = "Sprache ändern";
+"settings.language.system" = "Einstellungen öffnen";
+"settings.language.system.message" = "Um die Sprache zu ändern, gehen Sie bitte zu Einstellungen > Allgemein > Sprache & Region";
+"button.done" = "Fertig";
+"button.change" = "Ändern";
+"settings.support" = "Support";
+"settings.review" = "Bewerten Sie uns";
+"settings.privacy" = "Datenschutzrichtlinie";
+"settings.privacy.title" = "Datenschutzrichtlinie";
+"settings.info" = "Information";
+"settings.version" = "Version";
+"settings.last.update" = "Letztes Update"; 
+// Rules
+"title.rules" = "Spielregeln";
+"rules.1" = "Mach oder Trink!";
+"rules.2" = "Keine Lügen!";
+"rules.3" = "Viel Spaß!";
+"button.lets.play" = "Lass uns spielen!";
+
+// Game UI
+"mission.number" = "Mission %d";
+"game.end.confirmation" = "Spiel Beenden?";
+"game.end.message" = "Was möchten Sie tun?";
+"game.end.show.results" = "Ergebnisse Anzeigen";
+"game.end.exit" = "Ausgang";
+"mission.completed" = "Abgeschlossen";
+"mission.failed" = "Fehlgeschlagen";

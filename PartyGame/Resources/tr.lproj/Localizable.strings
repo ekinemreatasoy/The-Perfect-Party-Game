@@ -1,0 +1,63 @@
+// Game Types
+"game.all" = "İçeçek Oyunu";
+"game.all.description" = "Herkes için eğlenceli içeçek oyunu!";
+"game.girls" = "Kızlar Gecesi";
+"game.girls.description" = "Kızlara özel içeçek oyunu!";
+"game.couples" = "Çiftler Oyunu";
+"game.couples.description" = "İlişkinize heyecan katın!";
+"game.friends" = "Arkadaş Gecesi";
+"game.friends.description" = "En iyi arkadaşlarınla eğlen!";
+"game.party" = "Parti Zamanı";
+"game.party.description" = "En iyi parti oyunu!";
+"Party Games"="Parti Oyunları";
+// Common UI
+"button.start" = "Oyunu Başlat";
+"button.end" = "Oyunu Bitir";
+"button.close" = "Kapat";
+"button.cancel" = "İptal";
+"title.results" = "Oyun Sonuçları";
+"title.rules" = "Oyun Kuralları";
+"Did it!" = "Yaptım";
+"Skip" = "Geç";
+"Completed"="Tamamlanan";
+"Skipped"="Başarısız";
+"Total Missions"="Toplam Görevler";
+"Completion Rate"="Başarı Yüzdesi";
+"Close"="Kapat";
+"Start Game"="Oyunu Başlat";
+"Game Results"="Oyun Sonuçları";
+
+
+// Settings
+"settings.title" = "Ayarlar";
+"settings.sound" = "Ses";
+"settings.sound.effects" = "Ses Efektleri";
+"settings.language" = "Dil";
+"settings.language.change" = "Dili Değiştir";
+"settings.language.system" = "Ayarları Aç";
+"settings.language.system.message" = "Dili değiştirmek için lütfen Ayarlar > Genel > Dil ve Bölge'ye gidin";
+"button.done" = "Tamam";
+"button.cancel" = "İptal";
+"settings.support" = "Destek";
+"settings.review" = "Bizi Değerlendir";
+"settings.privacy" = "Gizlilik Politikası";
+"settings.privacy.title" = "Gizlilik Politikası";
+"settings.info" = "Bilgi";
+"settings.version" = "Versiyon";
+"settings.last.update" = "Son Güncelleme";
+
+// Rules
+"title.rules" = "Oyun Kuralları";
+"rules.1" = "Ya Yap Ya İç!";
+"rules.2" = "Yalan Yok!";
+"rules.3" = "Eğlen!";
+"button.lets.play" = "Hadi Oynayalım!";
+
+// Game UI
+"mission.number" = "Görev %d";
+"game.end.confirmation" = "Oyunu Bitir?";
+"game.end.message" = "Ne yapmak istersin?";
+"game.end.show.results" = "Sonuçları Göster";
+"game.end.exit" = "Çıkış";
+"mission.completed" = "Tamamlandı";
+"mission.failed" = "Başarısız"; 

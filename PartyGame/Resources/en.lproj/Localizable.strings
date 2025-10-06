@@ -1,0 +1,53 @@
+// Game Types
+"game.all" = "Party Drinks";
+"game.all.description" = "Fun drinking game for everyone!";
+"game.girls" = "Girls Night";
+"game.girls.description" = "Special drinking game for girls!";
+"game.couples" = "Couples Game";
+"game.couples.description" = "Spice up your relationship!";
+"game.friends" = "Friends Night";
+"game.friends.description" = "Fun with your best friends!";
+"game.party" = "Party Time";
+"game.party.description" = "Ultimate party game!";
+
+// Common UI
+"button.start" = "Start Game";
+"button.end" = "End Game";
+"button.close" = "Close";
+"button.cancel" = "Cancel";
+"title.results" = "Game Results";
+"title.rules" = "Game Rules";
+
+// Settings
+"settings.title" = "Settings";
+"settings.sound" = "Sound";
+"settings.sound.effects" = "Sound Effects";
+"settings.language" = "Language";
+"settings.language.change" = "Change Language";
+"settings.language.system" = "Open Settings";
+"settings.language.system.message" = "To change the language, please go to Settings > General > Language & Region";
+"button.done" = "Done";
+"button.change" = "Change";
+"settings.support" = "Support";
+"settings.review" = "Review Us";
+"settings.privacy" = "Privacy Policy";
+"settings.privacy.title" = "Privacy Policy";
+"settings.info" = "Information";
+"settings.version" = "Version";
+"settings.last.update" = "Last Update";
+
+// Rules
+"title.rules" = "Game Rules";
+"rules.1" = "Do it or Drink it!";
+"rules.2" = "No Lies!";
+"rules.3" = "Have Fun!";
+"button.lets.play" = "Let's Play!";
+
+// Game UI
+"mission.number" = "Mission %d";
+"game.end.confirmation" = "End Game?";
+"game.end.message" = "What would you like to do?";
+"game.end.show.results" = "Show Results";
+"game.end.exit" = "Exit";
+"mission.completed" = "Completed";
+"mission.failed" = "Failed"; 

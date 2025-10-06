@@ -1,0 +1,25 @@
+{
+    "version": "1.0",
+    "punishments": [
+        { "id": "1", "content": "Do 30 seconds of plank!" },
+        { "id": "2", "content": "Do 20 push-ups!" },
+        { "id": "3", "content": "Tell a joke to the group!" },
+        { "id": "4", "content": "Do 15 jumping jacks!" },
+        { "id": "5", "content": "Sing a song of your choice!" },
+        { "id": "6", "content": "Do a silly dance for 30 seconds!" },
+        { "id": "7", "content": "Imitate your favorite animal!" },
+        { "id": "8", "content": "Do 10 squats!" },
+        { "id": "9", "content": "Share an embarrassing story!" },
+        { "id": "10", "content": "Balance on one leg for 30 seconds!" },
+        { "id": "11", "content": "Do 5 burpees!" },
+        { "id": "12", "content": "Act like a celebrity of your choice!" },
+        { "id": "13", "content": "Do a handstand against the wall!" },
+        { "id": "14", "content": "Speak in an accent for the next round!" },
+        { "id": "15", "content": "Do 10 sit-ups!" },
+        { "id": "16", "content": "Pretend to be a waiter/waitress and take snack orders!" },
+        { "id": "17", "content": "Do a cartwheel!" },
+        { "id": "18", "content": "Do 20 high knees!" },
+        { "id": "19", "content": "Share your most recent embarrassing moment!" },
+        { "id": "20", "content": "Do a funny impression of someone in the room!" }
+    ]
+} 
